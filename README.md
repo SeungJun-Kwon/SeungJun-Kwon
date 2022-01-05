@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeungJun-Kwon&fontSize=70&animation=twinkling)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeungJun-Kwon)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyrnsorl123)](https://solved.ac/tyrnsorl123)
