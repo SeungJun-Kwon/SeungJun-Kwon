@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyrnsorl123)](https://solved.ac/tyrnsorl123)
+
+---
+
+### BLOG
+
+<a href="https://dachomi97.tistory.com/"><img src="https://tistory1.daumcdn.net/tistory/5269783/attach/24eb2ca3e9264045889c8a7483e4be63" width="200px"></a>
